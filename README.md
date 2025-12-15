@@ -36,7 +36,7 @@ Este proyecto ha sido desarrollado utilizando las últimas tecnologías recomend
 * **Lenguaje:** [Kotlin](https://kotlinlang.org/)
 * **Interfaz de Usuario:** [Jetpack Compose](https://developer.android.com/jetpack/compose) (UI Declarativa)
 * **Arquitectura:** MVVM (Model-View-ViewModel)
-* **BaaS:** ![Firebase](https://img.shields.io/badge/Firebase-gray?style=flat&logo=firebase&logoColor=FFCA28) Firebase (Autenticación, Almacenamiento y Base de Datos)
+* **BaaS:** ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) Firebase (Autenticación, Almacenamiento y Base de Datos)
 
 ## 🚧 Estado del Proyecto
 
