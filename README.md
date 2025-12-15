@@ -35,7 +35,7 @@ Este proyecto ha sido desarrollado utilizando las últimas tecnologías recomend
 
 * **Lenguaje:** [Kotlin](https://kotlinlang.org/)
 * **Interfaz de Usuario:** [Jetpack Compose](https://developer.android.com/jetpack/compose) (UI Declarativa)
-* **Arquitectura:** MVVM (Model-View-ViewModel) *[Recomendado añadir si lo usas]*
+* **Arquitectura:** MVVM (Model-View-ViewModel)
 
 ## 🚧 Estado del Proyecto
 
