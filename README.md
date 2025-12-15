@@ -3,7 +3,7 @@
 > **Trabajo de Fin de Grado (TFG)**
 > Aplicación nativa de streaming exclusiva para música de Carnaval.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-2.0-purple?logo=kotlin) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-blue?logo=android) ![Status](https://img.shields.io/badge/Estado-En_Desarrollo-orange)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.0-purple?logo=kotlin) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-blue?logo=android) ![Status](https://img.shields.io/badge/Estado-En_Desarrollo-orange) ![Firebase](https://img.shields.io/badge/Firebase-gray?style=flat&logo=firebase&logoColor=FFCA28)
 
 ## 📖 Descripción del Proyecto
 
@@ -36,7 +36,7 @@ Este proyecto ha sido desarrollado utilizando las últimas tecnologías recomend
 * **Lenguaje:** [Kotlin](https://kotlinlang.org/)
 * **Interfaz de Usuario:** [Jetpack Compose](https://developer.android.com/jetpack/compose) (UI Declarativa)
 * **Arquitectura:** MVVM (Model-View-ViewModel)
-* **BaaS:** ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) Firebase (Autenticación, Almacenamiento y Base de Datos)
+* **BaaS:** Firebase (Autenticación, Almacenamiento y Base de Datos)
 
 ## 🚧 Estado del Proyecto
 
